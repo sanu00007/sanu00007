@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu00007&label=Profile%20views&color=0e75b6&style=flat" alt="sanu00007" /> </p>
 
-- 🔭 I’m currently working on [Software Development-(convert json into html and csv))](https://github.com/sanu00007/internship)
+- 🔭 I’m currently working on [Hostel Management Project](https://github.com/sanu00007/Hostel-Management-Client-Side)
+- 🔭 I’m currently working on [Hostel Management Project](https://github.com/sanu00007/Hostel-Management-Server-Side)
+- 🔭 I’m currently working on [Software Development-(convert json into html and csv](https://github.com/sanu00007/internship)
 
 - 🌱 I’m currently learning **Node js, Express**
 
