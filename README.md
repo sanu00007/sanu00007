@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu00007&label=Profile%20views&color=0e75b6&style=flat" alt="sanu00007" /> </p>
 
-- 🔭 I’m currently working on [Hostel Management Project client side](https://github.com/sanu00007/Hostel-Management-Client-Side)
-- 🔭 I’m currently working on [Hostel Management Project server side](https://github.com/sanu00007/Hostel-Management-Server-Side)
+- 🔭 I’m currently working on [Solution challenge 2023-24](https://github.com/sanu00007/FareFinale)
+
 - 🔭 I’m currently working on [Software Development-(convert json into html and csv](https://github.com/sanu00007/internship)
 
 - 🌱 I’m currently learning **Node js, Express**
