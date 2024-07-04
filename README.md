@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sanin Mohammed N</h1>
-<h3 align="center">Am a passionate student who loves to code and solve problems. Loves to be a software developer. Learning basic requirements to be a full stack developer.</h3>
+<h3 align="center">Am a passionate student who loves to code and solve problems. Loves to be a software developer. Learning basic requirements to be a full stack developer (https://sanu00007.github.io/portfolio/.)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node js, Express**
 
-- 💬 Ask me about **c,java,flutter**
+- 💬 Ask me about **c,java,flutter,python**
 
 - 📫 How to reach me **saninmohammedn@gmail.com**
 
